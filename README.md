@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a target="_blank"  href="https://charming-chaja-cca4c0.netlify.app/">
+    <a target="_blank"  href="https://dashboard-admin-react123.netlify.app/">
       Demo
     </a>
     <span> | </span>
